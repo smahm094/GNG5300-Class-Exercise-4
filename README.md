@@ -1,4 +1,4 @@
-# gng5300_class_exercise_4
+# Class Exercise: Week-4
 This is a week-4 exercise of graduate level course: GNG5300 - Full Stack Software Developer
 
 Problem Statement:
